@@ -1,4 +1,5 @@
-# 
-Finding-Patterns-of-Cheating-in-Chess
+# Finding-Patterns-of-Cheating-in-Chess
 
-data and script of calculation of centipawn loss was copied from https://github.com/rafaelvleite/centipawn_loss_calculator
+The goal is to identify statisticall anomalies indicating cheating in chess
+
+The data and script of calculation of centipawn loss was taken from https://github.com/rafaelvleite/centipawn_loss_calculator
